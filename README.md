@@ -1,4 +1,4 @@
-Assignment 3 (Due on Feb 25, 2023; 10pm)
+** Assignment 3 (Due on Feb 25, 2023; 10pm)
 
 All these questions require you to implement a client & server architecture in Python.
 
